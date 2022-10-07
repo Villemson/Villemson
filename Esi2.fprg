@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="It"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-07 10:38:58 AM"/>
+        <attribute name="created" value="SXQ7REVTS1RPUC02UzVKVlRDOzIwMjItMTAtMDc7MTA6Mjk6MTUgQU07MjUzNA=="/>
+        <attribute name="edited" value="SXQ7REVTS1RPUC02UzVKVlRDOzIwMjItMTAtMDc7MTA6Mzg6NTggQU07MjsyNjUw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="V&#245;rdlus tehted"/>
+            <declare name="arv1, arv2" type="Integer" array="False" size=""/>
+            <output expression="&quot;Esimene arv&quot;" newline="True"/>
+            <input variable="arv1"/>
+            <output expression="&quot;Teine arv&quot;" newline="True"/>
+            <input variable="arv2"/>
+            <if expression="arv1&gt;arv2">
+                <then>
+                    <output expression="&quot;Esimene arv on suurem&quot;" newline="True"/>
+                </then>
+                <else>
+                    <if expression="arv2&gt;arv1">
+                        <then>
+                            <output expression="&quot;Teine arv on suurem&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;Arvud on v&#245;rdsed&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
