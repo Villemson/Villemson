@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marko's Profile</title>
+    <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Hey there, I'm Marko 👋</h1>
+        </header>
+        <main>
+            <section>
+                <h2>About Me</h2>
+                <p>I'm a passionate beginner developer with a love for coding and a thirst for knowledge.</p>
+            </section>
+            <section>
+                <h2>My Skills</h2>
+                <ul>
+                    <li>HTML5</li>
+                    <li>CSS3</li>
+                    <li>JavaScript (ES6+)</li>
+                    <li>Node.js</li>
+                    <li>React</li>
+                    <li>Express.js</li>
+                    <li>Arduino</li>
+                    <li>Raspberry Pi</li>
+                </ul>
+            </section>
+            <section>
+                <h2>Contact Me</h2>
+                <p>Feel free to reach out to me on Twitter <a href="https://twitter.com/sudo_overflow">@sudo_overflow</a>.</p>
+            </section>
+        </main>
+    </div>
+    <script src="particles.js"></script>
+    <script>
+        // Typewriter effect initialization and configurations
+        new Typewriter('header h1', {
+            delay: 20,
+        }).typeString("Hey there, I'm Marko 👋")
+            .pauseFor(3000)
+            .start();
+    </script>
+</body>
+
+</html>
