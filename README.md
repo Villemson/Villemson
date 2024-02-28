@@ -1,4 +1,4 @@
-# Tere! Mina olen Marko Villemson
+# Hi! I am Marko 
 
 ## Tutvustus
 ```javascript
@@ -29,3 +29,14 @@ class SoftwareEngineer {
 
 let me = new SoftwareEngineer();
 me.introduceSelf();
+
+# About Me
+- 👨‍💻 Currently studying software development, passionately diving into the world of coding and new technologies.
+- 🌱 I'm currently focusing on web development and OSINT.
+- 💡 I enjoy learning new programming languages and frameworks.
+- 🤝 I love collaborating with others and sharing knowledge.
+
+## Connect with Me
+- LinkedIn: [marko-villemson](https://linkedin.com/in/marko-villemson)
+- GitHub: [Villemson](https://github.com/Villemson)
+
