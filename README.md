@@ -6,8 +6,8 @@ class SoftwareEngineer {
   constructor() {
     this.name = "Marko";
     this.role = "Software Development Student";
-    this.languages = ["HTML/CSS", "JavaScript", "Python"];
-    this.interests = ["Web Development", "Machine Learning", "Cloud Computing"];
+    this.languages = ["HTML/CSS", "JavaScript", "Python", "Java", "C#"];
+    this.interests = ["Web Development", "Osint"];
     this.socialMedia = {
       LinkedIn: "https://linkedin.com/in/marko-villemson",
       GitHub: "https://github.com/Villemson"
