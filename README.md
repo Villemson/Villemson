@@ -1,6 +1,6 @@
 # Hi! I am Marko 
 
-## Itd me
+## I'm a Software Development Student
 ```javascript
 class SoftwareEngineer {
   constructor() {
