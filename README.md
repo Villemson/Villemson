@@ -37,6 +37,6 @@ me.introduceSelf();
 - 🤝 I love collaborating with others and sharing knowledge.
 
 ## Connect with Me
-- LinkedIn: [marko-villemson](https://linkedin.com/in/marko-villemson)
-- GitHub: [Villemson](https://github.com/Villemson)
+- LinkedIn: [marko-villemson]
+- GitHub: [Villemson]
 
