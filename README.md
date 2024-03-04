@@ -1,42 +1,45 @@
-# Hi! I am Marko 
-
 ## I'm a Software Development Student
+
+# 🚀 Meet Marko - The Aspiring Software Engineer! 🚀
+
+**Hi there! 👋 My name is Marko.** I'm a Software Development Student 🎓, 
+passionate about coding and exploring new technologies. 🚀 
+Here's a quick introduction to who I am and what I'm passionate about:
+
+## Programming Languages and Tools 🛠
+
+- **HTML/CSS** 💻
+- **JavaScript** 💻
+- **Python** 🐍
+- **Java** ☕
+- **C#** 🎯
+
+## Interests 🌟
+
+- **Web Development** 🌐
+- **OSINT** 🔍
+
+## Collaboration and Social Media 🤝
+
+I love collaborating with others and sharing knowledge. You can connect with me on the following platforms:
+
+- **LinkedIn:** [marko-villemson] 🏢
+- **GitHub:** [Villemson]🌟
+
+## Here's a Sneak Peek of My Code Style 👨‍💻
+
 ```javascript
 class SoftwareEngineer {
   constructor() {
     this.name = "Marko";
-    this.role = "Software Development Student";
-    this.languages = ["HTML/CSS", "JavaScript", "Python", "Java", "C#"];
-    this.interests = ["Web Development", "Osint"];
-    this.socialMedia = {
-      LinkedIn: "https://linkedin.com/in/marko-villemson",
-      GitHub: "https://github.com/Villemson"
-    };
+    // Other properties...
   }
 
   introduceSelf() {
-    console.log(`Hi there! My name is ${this.name}. I'm a ${this.role}, passionate about coding and exploring new technologies.`);
-    console.log("Here are a few things about me:");
-    console.log("- I enjoy learning new programming languages and frameworks.");
-    console.log("- My current interests include web development, Osint.");
-    console.log("- I love collaborating with others and sharing knowledge.");
-    console.log("You can connect with me on the following platforms:");
-    for (let platform in this.socialMedia) {
-      console.log(`- ${platform}: ${this.socialMedia[platform]}`);
-    }
+    console.log("Hi there! My name is Marko. I'm a Software Development Student.");
+    // Additional introduction details...
   }
 }
 
 let me = new SoftwareEngineer();
 me.introduceSelf();
-
-# About Me
-- 👨‍💻 Currently studying software development, passionately diving into the world of coding and new technologies.
-- 🌱 I'm currently focusing on web development and OSINT.
-- 💡 I enjoy learning new programming languages and frameworks.
-- 🤝 I love collaborating with others and sharing knowledge.
-
-## Connect with Me
-- LinkedIn: [marko-villemson]
-- GitHub: [Villemson]
-
