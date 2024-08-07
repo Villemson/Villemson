@@ -1,9 +1,8 @@
-## I'm a Software Development Student
+## I'm a Junior Software Developer
 
 # 🚀 Meet Marko - The Aspiring Software Engineer! 🚀
 
-**Hi there! 👋 My name is Marko.** I'm a Software Development Student 🎓, 
-passionate about coding and exploring new technologies. 🚀 
+**Hi there! 👋 My name is Marko.** I'm a Junior Software Developer 🎓, passionate about coding and exploring new technologies. 🚀 
 Here's a quick introduction to who I am and what I'm passionate about:
 
 ## Programming Languages and Tools 🛠
@@ -11,8 +10,8 @@ Here's a quick introduction to who I am and what I'm passionate about:
 - **HTML/CSS** 💻
 - **JavaScript** 💻
 - **Python** 🐍
-- **Java** ☕
 - **C#** 🎯
+- **PHP** 🐘
 
 ## Interests 🌟
 
@@ -24,7 +23,8 @@ Here's a quick introduction to who I am and what I'm passionate about:
 I love collaborating with others and sharing knowledge. You can connect with me on the following platforms:
 
 - **LinkedIn:** [marko-villemson] 🏢
-- **GitHub:** [Villemson]🌟
+- **GitHub:** [Villemson] 🌟
+- **Website:** [muusikatunnid.ee](https://muusikatunnid.ee) 🎵
 
 ## Here's a Sneak Peek of My Code Style 👨‍💻
 
@@ -36,7 +36,7 @@ class SoftwareEngineer {
   }
 
   introduceSelf() {
-    console.log("Hi there! My name is Marko. I'm a Software Development Student.");
+    console.log("Hi there! My name is Marko. I'm a Junior Software Developer.");
     // Additional introduction details...
   }
 }
