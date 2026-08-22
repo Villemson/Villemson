@@ -10,7 +10,7 @@
 
 I'm a software developer mainly working with **Laravel, PHP and JavaScript**.
 
-I also use **Python** and have a background in **cybersecurity, OSINT and digital forensics**.
+I also work with **Python**, and my technical background includes **cybersecurity, OSINT and digital forensics**.
 
 Most of my current development work is around **[Muusikatunnid.ee](https://muusikatunnid.ee/)**, where I'm building interactive tools and digital learning materials for music education.
 
@@ -27,7 +27,7 @@ Most of my current development work is around **[Muusikatunnid.ee](https://muusi
 ```text
 Backend       Laravel · PHP · MySQL
 Frontend      JavaScript · Alpine.js · Tailwind CSS · Vite
-Python        scripting · automation · technical tools
+Python        Scripting · Automation · Technical Tools
 Quality       PHPUnit · PHPStan/Larastan · Laravel Pint
 Security      Cybersecurity · OSINT · Digital Forensics
 Music/Web     Tone.js · VexFlow
@@ -57,7 +57,7 @@ Some of the things I've been working on:
 
 </div>
 
-## Other areas I work with
+## Technical background
 
 * Python
 * application security
